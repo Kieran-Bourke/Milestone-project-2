@@ -6,6 +6,12 @@ section h2 {
     margin-bottom: 0;
 }
 
+.btn{
+  float: right;
+  position:relative;
+  margin-top: 290px;
+}
+
 
 section{
     height: 400px;
@@ -20,4 +26,5 @@ h2 {
 
 footer {
         background-color: #031d44;
+      
 }
