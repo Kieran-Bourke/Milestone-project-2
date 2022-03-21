@@ -36,8 +36,12 @@ p {
     height: 40px;
 }
 
+footer ul {
+    margin-bottom: 0;
+}
+
 footer {
         background-color: #031d44;
-        
-      
+        width: 100%;
+        position: relative;
 }
