@@ -24,7 +24,16 @@ h2 {
     text-align: center;
 }
 
+#overview {
+    height: fit-content;
+}
+
+p {
+    color: white;
+}
+
 footer {
         background-color: #031d44;
+        
       
 }
