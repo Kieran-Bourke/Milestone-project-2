@@ -33,6 +33,11 @@ section h2 {
     background-position-y: center, -5px;
 }
 
+.btn-dropdown{
+    margin-top: 0;
+    margin-right: 25%;
+    margin-left:  25%;
+}
 
 
 section{
@@ -40,6 +45,8 @@ section{
     border: 1px solid black;
     background-color: #031d44 ;
 }
+
+
 
 h2 {
     background-color: orange;
