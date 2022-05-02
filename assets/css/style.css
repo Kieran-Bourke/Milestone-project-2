@@ -12,6 +12,28 @@ section h2 {
   margin-top: 290px;
 }
 
+#news {
+    background-image: url("../images/home-page/mattias-diesel-3M2cqBRQmjA-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center, -5px;
+}
+
+#car-anouncments{
+    background-image: url("../images/home-page/maxime-renard-BAnJZUPVOis-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center, -1px;
+}
+
+#tracks{
+    background-image: url("../images/home-page/michal-wojcik-S9XMyNuSKdo-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center, -5px;
+}
+
+
 
 section{
     height: 400px;
