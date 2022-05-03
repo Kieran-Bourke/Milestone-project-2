@@ -12,6 +12,10 @@ section h2 {
   margin-top: 290px;
 }
 
+li{
+    color: white;
+}
+
 #news {
     background-image: url("../images/home-page/mattias-diesel-3M2cqBRQmjA-unsplash.jpg");
     background-repeat: no-repeat;
